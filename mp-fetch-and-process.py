@@ -2,6 +2,7 @@
 #sample use of multiprocessing module and its Queue implementation
 # each process fetches data from an api endpoint and processes it
 # uses free api data from https://met.no/
+# basic program structure stolen from https://sebastianraschka.com/Articles/2014_multiprocessing.html
 
 import random
 import string
