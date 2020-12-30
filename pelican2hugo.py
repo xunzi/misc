@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 # converts blog post front matter
 # from pelican to hugo format
+# usage: 
+# pelican2hugo -i blogpost.md -o
+# this will overwrite blogpost.md with the hugo front matter format
 #pelican headers
 #Title: von Linux zu MacOS
 #Date: 2010-09-14 14:09
